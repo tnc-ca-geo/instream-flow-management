@@ -1,0 +1,12 @@
+name: instream-flow-management
+channels:
+    - conda-forge
+dependencies:
+    - python=3.9.15
+    - pandas=1.5.2
+    - jupyter=1.0.0
+    - plotly=5.12.0
+    - ulmo=0.8.8
+    - matplotlib=3.6.2
+    - statsmodels=0.13.5
+  
