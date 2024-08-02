@@ -9,4 +9,5 @@ dependencies:
     - ulmo=0.8.8
     - matplotlib=3.6.2
     - statsmodels=0.13.5
+    - openpyxl=3.0.10
   
